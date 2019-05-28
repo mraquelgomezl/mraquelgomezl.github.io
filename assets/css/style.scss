@@ -10,17 +10,13 @@ img.logo {
 }
 
 .button {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   padding: 5px;
   margin: 5px;
   border-radius: 5px;
-  font-weight:300;
-  color:#FFFFFF;
-  background-color:#4eb5f1;
-  text-align:center;
-  transition: all 0.2s;
+  font-weight: 300;
+  color: #FFFFFF;
+  background-color: #4eb5f1;
+  text-align: center;
 }
 
 @import "jekyll-theme-minimal";
