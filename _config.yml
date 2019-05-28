@@ -1,6 +1,26 @@
-title: Maria Raquel Gomez
+theme: jekyll-theme-minimal
+
+title: Maria Raquel Gomez Resume
 logo: /assets/img/IMG_3.png
 description: Data-driven marketer currently based in Hong Kong.
+
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-minimal
+
+# Personal information section
+name: Maria Raquel Gomez
+email: mraquel@hku.hk
+email_full: mailto:mraquel@hku.hk
+website: github.com/mraquelgomezl
+website_full: https://github.com/mraquelgomezl
+github: trending
+twitter: twitter
+linkedin: linkedin
+tel: +852 5602 7089
+tel_full: tel: +852 5602 7089
+#google_maps: link
+#address:
+  #street: 
+  #postcode: 
+city: Hong Kong
+  #country: United Kingdom
