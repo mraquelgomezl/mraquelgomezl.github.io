@@ -10,22 +10,23 @@ img.logo {
 }
 
 a.button {
-	background-color:#2C80BB;
+	background-color:#5cbf2a;
 	-moz-border-radius:36px;
 	-webkit-border-radius:36px;
 	border-radius:36px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
+	font-family:Arial;
 	font-size:17px;
-	padding:16px 31px;
+	padding:10px 15px;
 	text-decoration:none;
 }
 a.button:hover {
 	background-color:#006699;
 }
 a.button:active {
-	position:relative;
+	position:right;
 	top:1px;
 }
 
