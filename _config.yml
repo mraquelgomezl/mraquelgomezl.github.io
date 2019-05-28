@@ -11,16 +11,16 @@ description: Data-driven marketer currently based in Hong Kong.
 name: Maria Raquel Gomez
 email: mraquel@hku.hk
 email_full: mailto:mraquel@hku.hk
-website: github.com/mraquelgomezl
-website_full: https://github.com/mraquelgomezl
-github: trending
-twitter: twitter
-linkedin: linkedin
+#website: github.com/mraquelgomezl
+#website_full: https://github.com/mraquelgomezl
+github: mraquelgomezl
+twitter: MariaRaquelGL
+linkedin: mraquelgomezl
 tel: +852 5602 7089
-#tel_full: tel: +852 5602 7089
+tel_full: tel: +852 5602 7089
 #google_maps: link
 #address:
   #street: 
   #postcode: 
-city: Hong Kong
+  #city: Hong Kong
   #country: United Kingdom
